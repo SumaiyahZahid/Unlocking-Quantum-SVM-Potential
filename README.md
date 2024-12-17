@@ -50,9 +50,7 @@ If you use this repository or code in your research, please cite our paper:
 }
 ```
 
-## License
-[Specify the license, e.g., MIT, Apache, etc. If undecided, include "TBD" or "Refer to LICENSE file."]
 
 ## Contact
 For any questions or feedback, please contact:
-[Author Name] ([email@domain.com])
+Sumaiyah Zahid (sumaiyah@nu.edu.pk)
